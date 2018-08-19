@@ -1,0 +1,5 @@
+project-info.json
+/build/
+.idea
+/node_modules/*
+
